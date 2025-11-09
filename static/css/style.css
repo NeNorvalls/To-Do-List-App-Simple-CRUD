@@ -1,0 +1,24 @@
+body {
+  background: #f3f4f6;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.task-done {
+  text-decoration: line-through;
+  color: #6b7280;
+}
+
+.btn-primary {
+  background-color: #6f42c1;
+  border-color: #6f42c1;
+}
+
+.btn-primary:hover {
+  background-color: #5a32a3;
+  border-color: #5a32a3;
+}

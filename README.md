@@ -42,7 +42,7 @@ To-Do-List-App/
 - SQLite	Lightweight local database
 - Jinja2	Template engine for dynamic HTML
 - Bootstrap 5	Front-end framework for styling
-- Python 3.11+	Programming language
+- Python 3.12	Programming language
 
 ## 🧩 Installation Guide
 ### Clone the Repository
